@@ -1,0 +1,17 @@
+{
+  "name": "bash-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "doasync": "^2.0.1",
+    "hjson": "^3.1.1",
+    "rss-parser": "^3.4.2",
+    "short-ansi": "^1.0.1"
+  }
+}

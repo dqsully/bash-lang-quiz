@@ -1,0 +1,13 @@
+{
+    lang: es
+    feeds: [
+        // portada de el país
+        https://elpais.com/rss/elpais/portada.xml
+
+        // 20 minutos
+        https://www.20minutos.es/rss/
+
+        // el mundo
+        http://estaticos.elmundo.es/elmundo/rss/portada.xml
+    ]
+}
